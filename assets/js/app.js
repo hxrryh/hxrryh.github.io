@@ -29,7 +29,7 @@ let squad = [
     },
     {
         name: "rain",
-        link "https://steamcommunity.com/id/meIodrama/"
+        link: "https://steamcommunity.com/id/meIodrama/"
     }
 ];
 
