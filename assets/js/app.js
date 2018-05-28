@@ -34,6 +34,7 @@ let squad = [
     {
         name: "suna",
         link: "https://steamcommunity.com/id/cyborg/"
+    
     }
 ];
 
