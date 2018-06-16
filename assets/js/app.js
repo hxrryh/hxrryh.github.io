@@ -35,6 +35,10 @@ let squad = [
         name: "suna",
         link: "https://steamcommunity.com/id/cyborg/"
     
+    },
+    {
+        name:harvey",
+        link: "https://steamcommunity.com/id/eloisemae/"
     }
 ];
 
