@@ -4,10 +4,6 @@ let squad = [
         link: "https://steamcommunity.com/id/sexpectation"
     },
     {
-        name: "luke",
-        link: "https://steamcommunity.com/id/timestamp"
-    },
-    {
         name: "loz",
         link: "https://steamcommunity.com/id/charm"
     },
