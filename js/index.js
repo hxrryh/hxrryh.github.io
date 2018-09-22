@@ -120,7 +120,7 @@ $(function() {
   { 
     action: 'type',
     strings: ["error: site under construction"],
-    output: '<span class="gray">https://steamcommunity.com/id/societyofsadness</><br>&nbsp;',
+    output: '<span class="gray">http://steamcommunity.com/profiles/76561198077417337</><br>&nbsp;',
     postDelay: 1000
   },
   { 
