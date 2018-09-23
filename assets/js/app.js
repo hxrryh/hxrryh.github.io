@@ -1,27 +1,27 @@
 let squad = [
     {
-        name: "seph",
-        link: "https://steamcommunity.com/id/sexpectation"
+        name: "negatived",
+        link: "https://steamcommunity.com/id/egowreck"
     },
     {
-        name: "luke",
-        link: "https://steamcommunity.com/id/timestamp"
+        name: "amy",
+        link: "https://steamcommunity.com/id/L1E"
     },
     {
-        name: "loz",
-        link: "https://steamcommunity.com/id/charm"
+        name: "muna",
+        link: "https://steamcommunity.com/id/MunaKnif"
     },
     {
-        name: "dizzent",
-        link: "https://steamcommunity.com/id/dizzently"
+        name: "rain",
+        link: "https://steamcommunity.com/id/thenownow"
     },
     {
         name: "trahax",
         link: "https://steamcommunity.com/id/lid"
     },
     {
-        name: "death",
-        link: "https://steamcommunity.com/id/-death"
+        name: "guap",
+        link: "https://steamcommunity.com/id/imguap"
     },
     {
         name: "nik",
