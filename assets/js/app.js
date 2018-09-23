@@ -24,8 +24,8 @@ let squad = [
         link: "https://steamcommunity.com/id/imguap"
     },
     {
-        name: "nik",
-        link: "https://steamcommunity.com/id/sexualobject/"
+        name: "deef",
+        link: "https://steamcommunity.com/id/bought"
     }
 ];
 
