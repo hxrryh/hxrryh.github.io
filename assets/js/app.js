@@ -16,7 +16,7 @@ let squad = [
         link: "http://steamcommunity.com/profiles/76561197961239534"
     },
     {
-        name: "trahax",
+        name: "da$ha",
         link: "http://steamcommunity.com/profiles/76561198059417586"
     },
     {
