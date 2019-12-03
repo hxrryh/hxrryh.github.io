@@ -1,4 +1,4 @@
-let squad = [
+let admins = [
     {
         name: "harry",
         link: "https://steamcommunity.com/profiles/76561198077417337"
