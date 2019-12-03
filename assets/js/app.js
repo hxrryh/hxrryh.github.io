@@ -19,9 +19,9 @@ let admins = [
 
 
 $(document).ready(function() {
-    shuffle(squad);
+    shuffle(admins);
     for (let i = 0; i < squad.length; i++) {
-        $("#squad").append('<a target="_blank" href="'+squad[i].link+'">'+squad[i].name+'</a><br>');
+        $("#admins").append('<a target="_blank" href="'+admins[i].link+'">'+admins[i].name+'</a><br>');
     }
 });
 
