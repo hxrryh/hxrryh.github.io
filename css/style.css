@@ -1,0 +1,79 @@
+body 
+{
+    overflow: hidden;
+    font-family: 'Press Start 2P', cursive;
+    color: white;
+}
+
+#background {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+    z-index: -1;
+}
+
+html, body, .container {
+    height: 100%;
+}
+
+.container, .row.justify-content-center.align-items-center {
+    height: 100%;
+    min-height: 100%;
+}
+
+.links {
+    margin-bottom: 235px;
+    margin-top: 35px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.link 
+{
+    margin-left:4px;
+}
+
+a,
+a:hover,
+a:focus
+{
+    text-decoration: none;
+    color:white;
+}
+
+.links > a 
+{
+    color:white;
+    text-decoration:  none;
+}
+
+.links > a:hover
+{
+    color: rgb(175, 175, 175);
+}
+
+.title 
+{
+    font-size: 80px;
+    text-shadow: 0 0 10px rgb(184, 184, 184);
+}
+
+#particle {
+    position:fixed;
+    top:0;
+    right:0;
+    bottom:0;
+    left:0;
+    z-index:0; 
+  }
+  #overlay {
+    position: relative;
+  }
+
+  #clock 
+  {
+      text-align: center;
+  }
